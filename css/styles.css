@@ -64,7 +64,10 @@ h2 {
 }
 
 .cupcakelist .grid-item .best {
-  border: 2px solid #ff0020;
+  max-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  outline: 2px solid #ff0020;
 }
 
 footer {
